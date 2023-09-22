@@ -1,1 +1,4 @@
 .ipynb_checkpoints
+
+# temp: add data folder into the ignore, release after all scrape is ready
+data
