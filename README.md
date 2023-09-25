@@ -1,0 +1,1 @@
+The original data scraped from AllMusic is stored in the "original" folder and the wrangled data are stored in the "wrangled" folder.
