@@ -1,4 +1,1 @@
 .ipynb_checkpoints
-
-# temp: add original folder into the ignore, release after all scrape is ready
-original/*.csv
