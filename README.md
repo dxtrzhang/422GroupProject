@@ -64,7 +64,7 @@ For the original data, it will be stored as the structure shown below:
 * `theme_urls`: the themes' urls of the album. It's a string, if there are * more than one themes, themes' urls will be seperated by `;`;  
 * `url`: the url of the album;  
 
-### Column definations for talbe `track`
+### Column definations for table `track`
 * `num`: the number of the track in an album;  
 * `title`: the title of the track;  
 * `duration`: the duration of the track;  
