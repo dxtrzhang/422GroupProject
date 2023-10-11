@@ -100,6 +100,7 @@ For the wrangled data, it will be stored as the structure shown below:
     ├── theme_albums_map.csv
     └── tracks.csv
 ```
+![Data Model](./data_model.jpg)
 ### `grenre`, `style`, `mood`, `theme`
 they are the same as in the original data.
 
